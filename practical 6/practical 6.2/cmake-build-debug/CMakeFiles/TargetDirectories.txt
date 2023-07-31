@@ -1,0 +1,3 @@
+D:/practical6/practical 6.2/cmake-build-debug/CMakeFiles/practical_6_2.dir
+D:/practical6/practical 6.2/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/practical6/practical 6.2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
